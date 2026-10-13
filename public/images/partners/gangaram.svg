@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 56" fill="none">
+  <g transform="translate(6, 6)">
+    <!-- Ganga Ram Hospital Emblem -->
+    <circle cx="19" cy="21" r="16" fill="#047857"/>
+    <path d="M19 10v22M11 19h16" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round"/>
+    
+    <!-- Wordmark -->
+    <text x="44" y="21" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="13" letter-spacing="0.8" fill="#0F172A">SIR GANGA RAM</text>
+    <text x="44" y="34" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="9" letter-spacing="1.5" fill="#047857">HOSPITAL • NEW DELHI</text>
+  </g>
+</svg>

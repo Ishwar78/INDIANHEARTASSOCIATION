@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 56" fill="none">
+  <g transform="translate(6, 6)">
+    <!-- Red & Cyan Medical Cross Symbol -->
+    <rect x="2" y="14" width="30" height="16" rx="4" fill="#00A3E0"/>
+    <rect x="9" y="7" width="16" height="30" rx="4" fill="#00A3E0"/>
+    <circle cx="17" cy="22" r="4.5" fill="#FFFFFF"/>
+    
+    <!-- Wordmark -->
+    <text x="44" y="24" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="20" letter-spacing="1" fill="#0B2545">CARE</text>
+    <text x="44" y="37" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="9.5" letter-spacing="2" fill="#00A3E0">HOSPITALS</text>
+  </g>
+</svg>

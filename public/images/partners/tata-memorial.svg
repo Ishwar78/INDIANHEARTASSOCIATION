@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" fill="none">
+  <!-- TATA Iconic Typography & Emblem -->
+  <g transform="translate(6, 6)">
+    <!-- Shield / Caduceus Crest -->
+    <rect x="2" y="2" width="44" height="44" rx="10" fill="#00569B"/>
+    <path d="M12 18h24v4h-10v20h-4v-20h-10z" fill="#FFFFFF"/>
+    <circle cx="24" cy="14" r="2.5" fill="#E2A03F"/>
+    
+    <!-- Wordmark -->
+    <text x="56" y="22" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="16" letter-spacing="1.5" fill="#00569B">TATA</text>
+    <text x="108" y="22" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="13" letter-spacing="0.5" fill="#1E293B">MEMORIAL</text>
+    <text x="56" y="38" font-family="system-ui, -apple-system, sans-serif" font-weight="600" font-size="11" letter-spacing="0.8" fill="#475569">CENTRE &amp; HOSPITALS</text>
+  </g>
+</svg>
